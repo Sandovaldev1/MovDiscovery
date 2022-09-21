@@ -1,0 +1,19 @@
+{
+  "name": "movdiscovery",
+  "version": "1.0.0",
+  "description": "MovDiscovery is an aplication in process for find movies.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandovaldev1/MovDiscovery.git"
+  },
+  "author": "@sandovaldev21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sandovaldev1/MovDiscovery/issues"
+  },
+  "homepage": "https://github.com/Sandovaldev1/MovDiscovery#readme"
+}
