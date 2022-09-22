@@ -4,7 +4,44 @@
     box-sizing: border-box;
 }
 
-#header-one{
-    text-align: center;
-    padding-top: 25px;
+header{
+    background: #001F3D;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+
+.nav-item a{ 
+    color: aliceblue;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 350px;
+}
+
+#trendingPreview{
+background: aliceblue;
+}
+#trendingPreview h2{
+    padding: 15px;
+    color: black;
+}
+
+#trendingPreview img{
+width: 250px;
+border-radius: 10px;
+
+}
+article{
+    display: inline-block;
+
+    
+}
+.movie-container{
+    padding-bottom: 25px;
+}
+.trendingPreview-movieList{
+ margin-left: 43px;
+ margin-right: 45px;
 }
